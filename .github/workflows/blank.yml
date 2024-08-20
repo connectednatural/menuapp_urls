@@ -13,7 +13,7 @@ jobs:
 
       - name: Download JSON
         run: |
-          curl -o urls.json https://api.ssms-pilani.in/menu-next-seven-days
+          curl -o urls.json api.ssms-pilani.in/menu-next-seven-days
 
       - name: Check for changes
         id: check
