@@ -1,0 +1,30 @@
+name: Update BITSP Menu JSON
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-menu:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Download JSON
+        run: |
+          curl -o urls.json https://api.ssms-pilani.in/menu-next-seven-days
+
+      - name: Check for changes
+        id: check
+        run: |
+          git diff --exit-code || echo "::set-output name=changed::true"
+
+      - name: Commit changes
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add messmenu.json
+          git commit -m "[refactor] Update menu"
+          git push
