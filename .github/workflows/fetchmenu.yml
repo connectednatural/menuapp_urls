@@ -2,10 +2,9 @@ name: Fetch and Update Menu
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run daily at midnight UTC
+    - cron: '30 19 * * *'  # Run daily at 7:30 PM UTC (1:00 AM IST)
   workflow_dispatch:  # Allow manual trigger
 
-# Add permissions here
 permissions:
   contents: write
 
