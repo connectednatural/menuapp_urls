@@ -1,70 +1,5 @@
 [
   {
-    "date": "2024-08-18",
-    "day": "Sunday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Mix veg poha",
-      "Sev ",
-      "Onion + lemon",
-      "Cut pineapple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer butter m/s",
-      "Chicnen home style",
-      "Naan/ chapati(ltd)",
-      "Veg pulao",
-      "Cucumber raita",
-      "Chocolate i/c"
-    ],
-    "dinner": [
-      "Green salad",
-      "Aloo capsicum",
-      "Dhaba dal ",
-      "Chapati",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
-    "date": "2024-08-19",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "M/s dosa",
-      "Sambhar ",
-      "Coconut chutney ",
-      "Honey dew ",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Lauki channa ",
-      "Rajma masala",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Tang "
-    ],
-    "dinner": [
-      "Green salad",
-      "Veg kohlapuri",
-      "Dal lahsuni",
-      "Chapati",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2024-08-20",
     "day": "Tuesday",
     "breakfast": [
@@ -222,6 +157,70 @@
       "Bhindi masala",
       "Dal panchratan",
       "Chapati",
+      "Plain rice",
+      "Rasam"
+    ]
+  },
+  {
+    "date": "2024-08-25",
+    "day": "Sunday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Mix veg poha",
+      "Sev ",
+      " onion + lemon",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Onion salad",
+      "Paneer handi ",
+      "Kadhai chicken ",
+      "Naan/ chapati(ltd)",
+      "Biryani pulao",
+      "Cucumber raita",
+      "Butter scotch i/c"
+    ],
+    "dinner": [
+      "Green salad",
+      "Meti mutter malai ",
+      "Butter dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Rasam"
+    ]
+  },
+  {
+    "date": "2024-08-26",
+    "day": "Monday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Bread pakora",
+      "Tomato sauce",
+      "Sweet daliya",
+      "Watermelon",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Macaroni salad",
+      "Raw banana m/s",
+      "Rajma masala",
+      "Dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Sambar"
+    ],
+    "dinner": [
+      "Lemon + onion",
+      "Bhaji",
+      "Dhaba dal ",
+      "Pav/chapati(ldt)",
       "Plain rice",
       "Rasam"
     ]
