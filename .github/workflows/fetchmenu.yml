@@ -1,0 +1,73 @@
+name: Fetch and Update Menu
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at midnight UTC
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Fetch menu data and save to file
+      run: |
+        python -c "
+        import requests
+        import json
+        
+        url = 'https://api.ssms-pilani.in/menu-next-seven-days'
+        response = requests.get(url, verify=False)
+        
+        with open('urls.json', 'w') as f:
+            json.dump(response.json(), f, indent=2)
+        "
+
+    - name: Commit and push if changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add urls.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update menu data" && git push)name: Update BITSP Menu JSON
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-menu:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Download JSON
+        run: |
+          curl -o urls.json api.ssms-pilani.in/menu-next-seven-days
+
+      - name: Check for changes
+        id: check
+        run: |
+          git diff --exit-code || echo "::set-output name=changed::true"
+
+      - name: Commit changes
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add messmenu.json
+          git commit -m "[refactor] Update menu"
+          git push
