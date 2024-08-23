@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-08-22",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Ajwaini puri ",
-      "Bhaji",
-      "Lemon + onion",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Aloo jeera",
-      "Kadhi pakoda",
-      "Moong dal khichidi",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Shikanji"
-    ],
-    "dinner": [
-      "Green salad",
-      "Gutta curry",
-      "Dal makhani ",
-      "Chapati",
-      "Jeera rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2024-08-23",
     "day": "Friday",
     "breakfast": [
@@ -224,6 +191,40 @@
       "Chapati",
       "Plain rice",
       "Rasam"
+    ]
+  },
+  {
+    "date": "2024-08-29",
+    "day": "Thursday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Ajwaini puri",
+      "Bhaji",
+      "Lemon + onion",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad",
+      "Madrasi aloo ",
+      "Kadhi pakoda",
+      "Veg khichidi",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Shikanji"
+    ],
+    "dinner": [
+      "Medu vada",
+      "Masala dosa",
+      "Sambar",
+      "Coconut / tomato chutney",
+      "Lemon rice",
+      "Rasam",
+      "Rice kheer"
     ]
   }
 ]
