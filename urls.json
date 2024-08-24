@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-08-23",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Sautee idli ",
-      "Sambhar",
-      "Coconut chutney",
-      "Watermelon",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Corn salad",
-      "Kunduru m/s",
-      "Lauki kofta",
-      "Dal lahsuni",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Tang"
-    ],
-    "dinner": [
-      "Green salad",
-      "Veg manchurian / veg hakka noodle ",
-      "Dal maharani",
-      "Chapati",
-      "Veg fried rice / egg rice",
-      "Gulab jamun "
-    ]
-  },
-  {
     "date": "2024-08-24",
     "day": "Saturday",
     "breakfast": [
@@ -226,5 +193,31 @@
       "Rasam",
       "Rice kheer"
     ]
+  },
+  {
+    "date": "2024-08-30",
+    "day": "Friday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Chooley ",
+      "Kulcha",
+      "Lemon + onion",
+      "Honey dew ",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad",
+      "Veg 65",
+      "Methi mutter malai ",
+      "Dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Masala chacch"
+    ],
+    "dinner": []
   }
 ]
