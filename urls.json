@@ -1,36 +1,5 @@
 [
   {
-    "date": "2024-08-24",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Veg upma",
-      "Adrak chutney",
-      "Honey dew ",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green chutney",
-      "Aloo bonda",
-      "White mutter m/s",
-      "Curd/butter",
-      "Aloo paratha",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": [
-      "Green salad",
-      "Bhindi masala",
-      "Dal panchratan",
-      "Chapati",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2024-08-25",
     "day": "Sunday",
     "breakfast": [
@@ -219,5 +188,39 @@
       "Masala chacch"
     ],
     "dinner": []
+  },
+  {
+    "date": "2024-08-31",
+    "day": "Saturday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Mysore bonda",
+      "Adrak chutney",
+      "Sweet daliya",
+      "Watermelon",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Hari bhari tikki ",
+      "Green chutney",
+      "Kala channa m/s",
+      "Curd/butter",
+      "Aloo paratha",
+      "Plain rice",
+      "Sambar",
+      "Mix blast"
+    ],
+    "dinner": [
+      "Bhel poori",
+      "Bhindi masala",
+      "Dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Shai tukda"
+    ]
   }
 ]
