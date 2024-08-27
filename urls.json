@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-08-26",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Bread pakora",
-      "Tomato sauce",
-      "Sweet daliya",
-      "Watermelon",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Macaroni salad",
-      "Raw banana m/s",
-      "Rajma masala",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": [
-      "Lemon + onion",
-      "Bhaji",
-      "Dhaba dal ",
-      "Pav/chapati(ldt)",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2024-08-27",
     "day": "Tuesday",
     "breakfast": [
@@ -191,5 +159,6 @@
       "Shai tukda"
     ]
   },
+  null,
   null
 ]
