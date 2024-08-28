@@ -1,39 +1,5 @@
 [
   {
-    "date": "2024-08-27",
-    "day": "Tuesday",
-    "breakfast": [
-      "Moong sprout",
-      "Cornflakes",
-      "Bread + jam",
-      "Aloo piyaz paratha",
-      "Curd",
-      "Mix pickle",
-      "Cut pineapple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Capsicum pitla",
-      "Veg makhani ",
-      "Dal fry ",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Sweet lassi "
-    ],
-    "dinner": [
-      "Lemon + onion",
-      "Khatta meetha pumpkin",
-      "Chooley masala",
-      "Puri",
-      "Jeera rice",
-      "Rasam",
-      "Jalebi"
-    ]
-  },
-  {
     "date": "2024-08-28",
     "day": "Wednesday",
     "breakfast": [
@@ -159,6 +125,7 @@
       "Shai tukda"
     ]
   },
+  null,
   null,
   null
 ]
