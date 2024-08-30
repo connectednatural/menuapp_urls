@@ -1,39 +1,5 @@
 [
   {
-    "date": "2024-08-29",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Ajwaini puri",
-      "Bhaji",
-      "Lemon + onion",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Madrasi aloo ",
-      "Kadhi pakoda",
-      "Veg khichidi",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Shikanji"
-    ],
-    "dinner": [
-      "Medu vada",
-      "Masala dosa",
-      "Sambar",
-      "Coconut / tomato chutney",
-      "Lemon rice",
-      "Rasam",
-      "Rice kheer"
-    ]
-  },
-  {
     "date": "2024-08-30",
     "day": "Friday",
     "breakfast": [
@@ -93,6 +59,7 @@
       "Shai tukda"
     ]
   },
+  null,
   null,
   null,
   null,
