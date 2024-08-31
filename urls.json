@@ -1,31 +1,5 @@
 [
   {
-    "date": "2024-08-30",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Chooley ",
-      "Kulcha",
-      "Lemon + onion",
-      "Honey dew ",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Veg 65",
-      "Methi mutter malai ",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Masala chacch"
-    ],
-    "dinner": []
-  },
-  {
     "date": "2024-08-31",
     "day": "Saturday",
     "breakfast": [
@@ -59,6 +33,7 @@
       "Shai tukda"
     ]
   },
+  null,
   null,
   null,
   null,
