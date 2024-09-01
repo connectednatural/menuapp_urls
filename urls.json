@@ -1,42 +1,232 @@
 [
   {
-    "date": "2024-08-31",
+    "date": "2024-09-01",
+    "day": "Sunday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Mix veg poha",
+      "Sev",
+      "Onion + lemon",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Onion salad",
+      "Paneer handi",
+      "Butter chicken",
+      "Naan/ chapati(ltd)",
+      "Veg pulao",
+      "Cucumber raita",
+      "Tang "
+    ],
+    "dinner": [
+      "Green salad",
+      "Papad mangori sabji",
+      "Dhaba dal",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Rajashtani petha "
+    ]
+  },
+  {
+    "date": "2024-09-02",
+    "day": "Monday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "M/s dosa",
+      "Sambhar ",
+      "Coconut chutney ",
+      "Honey dew",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad",
+      "Chu chu baingan m/s",
+      "Rajma masala",
+      "Dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Mango lassi"
+    ],
+    "dinner": [
+      "Green salad",
+      "Veg makhani",
+      "Dal lahsuni",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Cold choco milk "
+    ]
+  },
+  {
+    "date": "2024-09-03",
+    "day": "Tuesday",
+    "breakfast": [
+      "Moong sprout",
+      "Cornflakes",
+      "Bread + jam",
+      "Mix veg paratha",
+      "Curd",
+      "Mix pickle",
+      "Green apple",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Bhel poori",
+      "Lauki chana dal",
+      "Kofta curry",
+      "Dal panchratan",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Shikanji"
+    ],
+    "dinner": [
+      "Lemon + onion",
+      "Khattta meetha pumpkin",
+      "Punjabi chole",
+      "Puri",
+      "Jeera rice",
+      "Burani raita"
+    ]
+  },
+  {
+    "date": "2024-09-04",
+    "day": "Wednesday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Masala sandwich",
+      "Sweet daliya",
+      "Tomato sauce",
+      "Cut pears",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad",
+      "Mutter paneer",
+      "Chicken kuku paka",
+      "Ajwaini tikona paratha",
+      "Peas pulao",
+      "Boondi raita",
+      "Black curent i/c"
+    ],
+    "dinner": [
+      "Aloo kala channa chat",
+      "Methi aloo rassa ",
+      "Mix dal",
+      "Chapati",
+      "Plain rice",
+      "Rasam"
+    ]
+  },
+  {
+    "date": "2024-09-05",
+    "day": "Thursday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Palak puri ",
+      "Aloo bhaji",
+      "Lemon + onion",
+      "Papaya",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Roasted papad",
+      "Mix veg dry ",
+      "Spring onion kadhi ",
+      "Moong dal khichidi",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Tang"
+    ],
+    "dinner": [
+      "Green salad",
+      "Soya chaap masala",
+      "Dal makhani ",
+      "Chapati",
+      "Jeera rice",
+      "Pine apple raita"
+    ]
+  },
+  {
+    "date": "2024-09-06",
+    "day": "Friday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Rawa idli",
+      "Sambhar",
+      "Coconut chutney",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Corn salad",
+      "Aloo palak",
+      "Gutta curry",
+      "Dal lahsuni",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Masala chacch"
+    ],
+    "dinner": [
+      "Green salad",
+      "Veg manchurian/ veg hakka noodle",
+      "Dal maharani ",
+      "Chapati",
+      "Veg/ egg fried rice",
+      "Gulab jamun "
+    ]
+  },
+  {
+    "date": "2024-09-07",
     "day": "Saturday",
     "breakfast": [
       "Choice of egg",
       "Cornflakes",
       "Bread + jam",
-      "Mysore bonda",
+      "Veg upma",
       "Adrak chutney",
-      "Sweet daliya",
-      "Watermelon",
+      "Honey dew",
       "Tea + coffee",
       "Milk"
     ],
     "lunch": [
-      "Hari bhari tikki ",
+      "Paneer pakora",
       "Green chutney",
-      "Kala channa m/s",
-      "Curd/butter",
-      "Aloo paratha",
-      "Plain rice",
-      "Sambar",
-      "Mix blast"
+      "Malai kofta",
+      "Dal makhnai",
+      "Plain paratha",
+      "Kashmiri pulao",
+      "Cold badam milk ",
+      "Boondi ladoo "
     ],
     "dinner": [
-      "Bhel poori",
-      "Bhindi masala",
-      "Dal tadka",
+      "Green salad",
+      "Aloo capsicum corn ",
+      "Black masoor dal ",
       "Chapati",
       "Plain rice",
-      "Rasam",
-      "Shai tukda"
+      "Rasam"
     ]
-  },
-  null,
-  null,
-  null,
-  null,
-  null,
-  null
+  }
 ]
