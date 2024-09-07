@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-09-06",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Rawa idli",
-      "Sambhar",
-      "Coconut chutney",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Corn salad",
-      "Aloo palak",
-      "Gutta curry",
-      "Dal lahsuni",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Masala chacch"
-    ],
-    "dinner": [
-      "Green salad",
-      "Veg manchurian/ veg hakka noodle",
-      "Dal maharani ",
-      "Chapati",
-      "Veg/ egg fried rice",
-      "Gulab jamun "
-    ]
-  },
-  {
     "date": "2024-09-07",
     "day": "Saturday",
     "breakfast": [
@@ -224,6 +191,39 @@
       "Coconut / tomato chutney",
       "Lemon rice",
       "Rice kheer"
+    ]
+  },
+  {
+    "date": "2024-09-13",
+    "day": "Friday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Mutter",
+      "Kulcha",
+      "Lemon + onion",
+      "Green apple",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad",
+      "Soya handi",
+      "Veg korma",
+      "Dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Masala chacch"
+    ],
+    "dinner": [
+      "Mix bhajia",
+      "Sahi paneer ",
+      "Dal makhani ",
+      "Puri / chapati ltd",
+      "Onion pulao",
+      "Shrekhand"
     ]
   }
 ]
