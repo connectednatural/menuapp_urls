@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-09-07",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Veg upma",
-      "Adrak chutney",
-      "Honey dew",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Paneer pakora",
-      "Green chutney",
-      "Malai kofta",
-      "Dal makhnai",
-      "Plain paratha",
-      "Kashmiri pulao",
-      "Cold badam milk ",
-      "Boondi ladoo "
-    ],
-    "dinner": [
-      "Green salad",
-      "Aloo capsicum corn ",
-      "Black masoor dal ",
-      "Chapati",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2024-09-08",
     "day": "Sunday",
     "breakfast": [
@@ -224,6 +192,40 @@
       "Puri / chapati ltd",
       "Onion pulao",
       "Shrekhand"
+    ]
+  },
+  {
+    "date": "2024-09-14",
+    "day": "Saturday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Mix veg poha",
+      "Sev",
+      "Onion + lemon",
+      "Cut pears",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green chutney",
+      "Veg bullets",
+      "Kala chana masala",
+      "Curd/butter",
+      "Aloo paratha",
+      "Plain rice",
+      "Sambar",
+      "Shikanji"
+    ],
+    "dinner": [
+      "Pasta white sauce",
+      "Jeera aloo ",
+      "Dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Shahi tukda"
     ]
   }
 ]
