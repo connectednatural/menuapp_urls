@@ -1,36 +1,5 @@
 [
   {
-    "date": "2024-09-08",
-    "day": "Sunday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Methi thepla",
-      "Green chutney",
-      "Cut pears",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer tikka masala",
-      "Kadhai chicken ",
-      "Naan/ chapati(ltd)",
-      "Biryani pulao",
-      "Onion mint raita",
-      "Butter scotch i/c"
-    ],
-    "dinner": [
-      "Bhel poori",
-      "Methi mutter malai ",
-      "Butter dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2024-09-09",
     "day": "Monday",
     "breakfast": [
@@ -226,6 +195,38 @@
       "Plain rice",
       "Rasam",
       "Shahi tukda"
+    ]
+  },
+  {
+    "date": "2024-09-15",
+    "day": "Sunday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "M/s dosa",
+      "Sambhar ",
+      "Coconut chutney ",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Onion salad",
+      "Paneer butter m/s",
+      "Chicken home style",
+      "Naan/ chapati(ltd)",
+      "Veg pulao",
+      "Mix veg raita",
+      "Chocolate i/c"
+    ],
+    "dinner": [
+      "Corn salad",
+      "Aloo capsicum",
+      "Dal palak",
+      "Chapati",
+      "Plain rice",
+      "Rasam"
     ]
   }
 ]
