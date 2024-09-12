@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-09-11",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Misal ",
-      "Pav",
-      "Lemon + onion",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer lababdar",
-      "Dal makhani ",
-      "Chapati",
-      "Pulau rice",
-      "Cucumber raita",
-      "Cookies & cream i/c"
-    ],
-    "dinner": [
-      "Papdi chaat ",
-      "Lauki masala",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2024-09-12",
     "day": "Thursday",
     "breakfast": [
@@ -163,6 +131,7 @@
       "Rasam"
     ]
   },
+  null,
   null,
   null
 ]
