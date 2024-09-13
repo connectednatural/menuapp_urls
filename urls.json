@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-09-12",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Onion utappam",
-      "Sambhar",
-      "Coconut chutney",
-      "Honey dew",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Fryums",
-      "Raw banana m/s",
-      "Kadhi pakoda",
-      "Veg khichidi",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Rose lemonade"
-    ],
-    "dinner": [
-      "Medu vada",
-      "Masala dosa",
-      "Sambar",
-      "Coconut / tomato chutney",
-      "Lemon rice",
-      "Rice kheer"
-    ]
-  },
-  {
     "date": "2024-09-13",
     "day": "Friday",
     "breakfast": [
@@ -131,6 +98,7 @@
       "Rasam"
     ]
   },
+  null,
   null,
   null,
   null
