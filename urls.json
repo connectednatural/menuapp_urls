@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-09-13",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Mutter",
-      "Kulcha",
-      "Lemon + onion",
-      "Green apple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Soya handi",
-      "Veg korma",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Masala chacch"
-    ],
-    "dinner": [
-      "Mix bhajia",
-      "Sahi paneer ",
-      "Dal makhani ",
-      "Puri / chapati ltd",
-      "Onion pulao",
-      "Shrekhand"
-    ]
-  },
-  {
     "date": "2024-09-14",
     "day": "Saturday",
     "breakfast": [
@@ -98,6 +65,7 @@
       "Rasam"
     ]
   },
+  null,
   null,
   null,
   null,
