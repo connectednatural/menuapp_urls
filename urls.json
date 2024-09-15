@@ -1,39 +1,5 @@
 [
   {
-    "date": "2024-09-14",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Mix veg poha",
-      "Sev",
-      "Onion + lemon",
-      "Cut pears",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green chutney",
-      "Veg bullets",
-      "Kala chana masala",
-      "Curd/butter",
-      "Aloo paratha",
-      "Plain rice",
-      "Sambar",
-      "Shikanji"
-    ],
-    "dinner": [
-      "Pasta white sauce",
-      "Jeera aloo ",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Shahi tukda"
-    ]
-  },
-  {
     "date": "2024-09-15",
     "day": "Sunday",
     "breakfast": [
@@ -65,6 +31,7 @@
       "Rasam"
     ]
   },
+  null,
   null,
   null,
   null,
