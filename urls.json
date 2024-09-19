@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-09-18",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Bread pakora",
-      "Sweet daliya",
-      "Tomato sauce",
-      "Watermelon",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Paneer tikka masala",
-      "Dhaba chicken ",
-      "Ajwaini tikona paratha",
-      "Peas pulao",
-      "Boondi raita",
-      "Butter scotch i/c"
-    ],
-    "dinner": [
-      "Aloo kala channa chat",
-      "Veg korma",
-      "Mix dal",
-      "Chapati",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2024-09-19",
     "day": "Thursday",
     "breakfast": [
@@ -217,6 +185,38 @@
       "Chapati",
       "Jeera rice",
       "Seviya kheer"
+    ]
+  },
+  {
+    "date": "2024-09-25",
+    "day": "Wednesday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Mysore bonda",
+      "Sweet daliya",
+      "Adrak chutney",
+      "Papaya",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad",
+      "Paneer lahori",
+      "Dal makhani ",
+      "Chapati",
+      "Plain rice",
+      "Burani raita",
+      "Cookies & cream i/c"
+    ],
+    "dinner": [
+      "Papdi chaat ",
+      "Dum aloo kashmiri",
+      "Dal amritsari",
+      "Chapati",
+      "Plain rice",
+      "Rasam"
     ]
   }
 ]
