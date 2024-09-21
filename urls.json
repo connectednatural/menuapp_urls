@@ -1,29 +1,5 @@
 [
   {
-    "date": "2024-09-20",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Sauteed /plain idli ",
-      "Sambhar",
-      "Coconut chutney",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [],
-    "dinner": [
-      "Corn salad",
-      "Lauki kofta",
-      "Dal lahsuni",
-      "Chapati",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2024-09-21",
     "day": "Saturday",
     "breakfast": [
@@ -218,5 +194,31 @@
       "Rasam",
       "Coconut burfi"
     ]
+  },
+  {
+    "date": "2024-09-27",
+    "day": "Friday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Misal ",
+      "Pav",
+      "Lemon + onion",
+      "Cut apple",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Macaroni salad",
+      "Baingan bharta",
+      "Rajma masala",
+      "Dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Mango lassi "
+    ],
+    "dinner": []
   }
 ]
