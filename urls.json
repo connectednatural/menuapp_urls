@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-09-22",
-    "day": "Sunday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Masala dosa",
-      "Sambar",
-      "Coconut chutney",
-      "Honey dew",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer handi ",
-      "Kadhai chicken ",
-      "Naan/ chapati(ltd)",
-      "Biryani pulao",
-      "Cucumber raita",
-      "Black current i/c"
-    ],
-    "dinner": [
-      "Green salad",
-      "Bhindi masala",
-      "Dal panchratan",
-      "Chapati",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2024-09-23",
     "day": "Monday",
     "breakfast": [
@@ -221,6 +189,38 @@
       "Plain rice",
       "Cucumber raita",
       "Shahi tukda"
+    ]
+  },
+  {
+    "date": "2024-09-29",
+    "day": "Sunday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Mix veg poha",
+      "Sev",
+      "Onion + lemon",
+      "Cut pineapple",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Onion salad",
+      "Paneer butter m/s",
+      "Chicken home style",
+      "Naan/ chapati(ltd)",
+      "Veg pulao",
+      "Mix veg raita",
+      "Choco chip i/c"
+    ],
+    "dinner": [
+      "Green salad",
+      "Bhindi masala",
+      "Dhaba dal",
+      "Chapati",
+      "Plain rice",
+      "Rasam"
     ]
   }
 ]
