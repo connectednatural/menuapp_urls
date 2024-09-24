@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-09-23",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Coleslaw s/w",
-      "Sweet daliya",
-      "Tomato sauce",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Aloo methi dry",
-      "Lobiya masala",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Sweet lassi "
-    ],
-    "dinner": [
-      "Green salad",
-      "Soya chaap",
-      "Dal makhani",
-      "Chapati",
-      "Plain rice",
-      "Boondi raita"
-    ]
-  },
-  {
     "date": "2024-09-24",
     "day": "Tuesday",
     "breakfast": [
@@ -221,6 +188,40 @@
       "Chapati",
       "Plain rice",
       "Rasam"
+    ]
+  },
+  {
+    "date": "2024-09-30",
+    "day": "Monday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Onion utappam",
+      "Sambhar ",
+      "Coconut chutney ",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad",
+      "Cabbage mutter",
+      "Mix kathol",
+      "Dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Shikanji"
+    ],
+    "dinner": [
+      "Pasta salad",
+      "Veg makhani",
+      "Dal lahsuni",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Rice kheer"
     ]
   }
 ]
