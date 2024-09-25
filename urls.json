@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-09-24",
-    "day": "Tuesday",
-    "breakfast": [
-      "Moong sprout",
-      "Cornflakes",
-      "Bread + jam",
-      "Aloo pyaaz paratha",
-      "Curd",
-      "Mix pickle",
-      "Watermelon",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Capsicum pitla",
-      "Methi mutter malai",
-      "Dal fry ",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Rasna"
-    ],
-    "dinner": [
-      "Green salad",
-      "Veg jalfrezi",
-      "Dhaba dal ",
-      "Chapati",
-      "Jeera rice",
-      "Seviya kheer"
-    ]
-  },
-  {
     "date": "2024-09-25",
     "day": "Wednesday",
     "breakfast": [
@@ -223,5 +190,6 @@
       "Rasam",
       "Rice kheer"
     ]
-  }
+  },
+  null
 ]
