@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-09-25",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Mysore bonda",
-      "Sweet daliya",
-      "Adrak chutney",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Paneer lahori",
-      "Dal makhani ",
-      "Chapati",
-      "Plain rice",
-      "Burani raita",
-      "Cookies & cream i/c"
-    ],
-    "dinner": [
-      "Papdi chaat ",
-      "Dum aloo kashmiri",
-      "Dal amritsari",
-      "Chapati",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2024-09-26",
     "day": "Thursday",
     "breakfast": [
@@ -191,5 +159,6 @@
       "Rice kheer"
     ]
   },
+  null,
   null
 ]
