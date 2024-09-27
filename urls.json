@@ -1,39 +1,5 @@
 [
   {
-    "date": "2024-09-26",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Stuff ",
-      "Kulcha",
-      "Tomato ketchup",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Aloo chips dry ",
-      "Aloo jeera",
-      "Kadhi pakoda",
-      "Veg khichidi",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Shikanji"
-    ],
-    "dinner": [
-      "Lemon + onion",
-      "Khattta meetha pumpkin",
-      "Chole masala",
-      "Puri",
-      "Jeera rice",
-      "Rasam",
-      "Coconut burfi"
-    ]
-  },
-  {
     "date": "2024-09-27",
     "day": "Friday",
     "breakfast": [
@@ -159,6 +125,7 @@
       "Rice kheer"
     ]
   },
+  null,
   null,
   null
 ]
