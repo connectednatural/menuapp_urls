@@ -1,31 +1,5 @@
 [
   {
-    "date": "2024-09-27",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Misal ",
-      "Pav",
-      "Lemon + onion",
-      "Cut apple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Macaroni salad",
-      "Baingan bharta",
-      "Rajma masala",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Mango lassi "
-    ],
-    "dinner": []
-  },
-  {
     "date": "2024-09-28",
     "day": "Saturday",
     "breakfast": [
@@ -125,6 +99,7 @@
       "Rice kheer"
     ]
   },
+  null,
   null,
   null,
   null
