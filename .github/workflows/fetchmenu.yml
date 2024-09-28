@@ -2,8 +2,8 @@ name: Fetch and Update Menu
 
 on:
   schedule:
-    - cron: '35 18 * * *' 
-  workflow_dispatch:  
+    - cron: '0 7 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,35 +13,40 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-    - name: Fetch menu data and save to file
-      run: |
-        python -c "
-        import requests
-        import json
-        
-        url = 'https://api.ssms-pilani.in/menu-next-seven-days'
-        response = requests.get(url, verify=False)
-        
-        with open('urls.json', 'w') as f:
-            json.dump(response.json(), f, indent=2)
-        "
+      - name: Fetch menu data and save to file
+        run: |
+          python -c "
+          import requests
+          import json
 
-    - name: Commit and push if changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add urls.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update menu data" && git push)
+          url = 'https://api.ssms-pilani.in/menu-next-seven-days'
+          response = requests.get(url, verify=False)
+
+          with open('urls.json', 'w') as f:
+              json.dump(response.json(), f, indent=2)
+          "
+
+      - name: Check if there are changes and commit with date and time
+        run: |
+          git config --local user.email 'action@github.com'
+          git config --local user.name 'GitHub Action'
+          git add urls.json
+          if ! git diff --quiet; then
+            DATE_TIME=$(date +"%Y-%m-%d %H:%M:%S")
+            git commit -m "Update menu data - $DATE_TIME"
+            git push
+          else
+            echo "No changes detected, skipping commit."
