@@ -2,7 +2,7 @@ name: Fetch and Update Menu
 
 on:
   schedule:
-    - cron: '0 7 * * *'
+    - cron: '0 7 * * *'  # Runs daily at 12:30 PM IST (7:00 AM UTC)
   workflow_dispatch:
 
 permissions:
@@ -44,10 +44,11 @@ jobs:
           git config --local user.email 'action@github.com'
           git config --local user.name 'GitHub Action'
           git add urls.json
-          if ! git diff --quiet; then
+          if git diff --cached --quiet; then
+            echo "No changes detected, skipping commit."
+          else
             DATE_TIME=$(date +"%Y-%m-%d %H:%M:%S")
             git commit -m "Update menu data - $DATE_TIME"
             git push
-          else
-            echo "No changes detected, skipping commit."
+          fi
         shell: bash
