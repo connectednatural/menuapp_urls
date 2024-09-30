@@ -45,8 +45,7 @@
       "Mix Pickle",
       "Watermelon",
       "Tea + Coffee",
-      "Milk",
-      "Tuesday"
+      "Milk"
     ],
     "lunch": [
       "Green Salad",
@@ -56,8 +55,7 @@
       "Chapati",
       "Plain Rice",
       "Sambar",
-      "Shikanji",
-      "Tuesday"
+      "Shikanji"
     ],
     "dinner": [
       "Onion + Lemon",
@@ -80,8 +78,9 @@
       "Lemon + Onion",
       "Cut Apple",
       "Tea + Coffee",
-      "Milk",
-      "Wednesday",
+      "Milk"
+    ],
+    "lunch": [
       "Grub",
       "Paneer Pakora",
       "Malai Kofta",
@@ -90,10 +89,8 @@
       "Veg Pulao",
       "Veg Pulao",
       "Cucumber Raita",
-      "Cookies Cream I/C",
-      "Wednesday"
+      "Cookies Cream I/C"
     ],
-    "lunch": [],
     "dinner": [
       "Green Salad",
       "Methi Mutter Malai",
@@ -116,8 +113,7 @@
       "Sweet Daliya",
       "Cut Papaya",
       "Tea + Coffee",
-      "Milk",
-      "Thursday"
+      "Milk"
     ],
     "lunch": [
       "Roasted Papad",
@@ -127,8 +123,7 @@
       "Chapati",
       "Plain Rice",
       "Sambar",
-      "Ice Tea",
-      "Thursday"
+      "Ice Tea"
     ],
     "dinner": [
       "Green Salad",
@@ -151,8 +146,7 @@
       "Lemon + Onion",
       "Banana",
       "Tea + Coffee",
-      "Milk",
-      "Friday"
+      "Milk"
     ],
     "lunch": [
       "Green Salad",
@@ -162,8 +156,7 @@
       "Chapati",
       "Plain Rice",
       "Sambar",
-      "Masala Chhas",
-      "Friday"
+      "Masala Chhas"
     ],
     "dinner": [
       "Bhel Puri",
@@ -186,8 +179,7 @@
       "Tomato Ketchup",
       "Pineapple",
       "Tea + Coffee",
-      "Milk",
-      "Saturday"
+      "Milk"
     ],
     "lunch": [
       "Big Green Chilli Fry",
@@ -195,8 +187,7 @@
       "Curd",
       "Puri",
       "Jeera Rice",
-      "Shikanji",
-      "Saturday"
+      "Shikanji"
     ],
     "dinner": [
       "Green Salad",
@@ -220,18 +211,17 @@
       "Coconut Chutney",
       "Cut Apple",
       "Tea + Coffee",
-      "Milk",
-      "Sunday"
+      "Milk"
     ],
     "lunch": [
       "Onion Salad",
       "Kadhai Paneer",
+      "",
       "Chicken Home Style",
       "Naan",
       "Pulao Rice",
       "Mix Veg Raita",
-      "Choco Chip I/C",
-      "Sunday"
+      "Choco Chip I/C"
     ],
     "dinner": [
       "Papdi Chaat",
@@ -254,8 +244,7 @@
       "Sweet Daliya",
       "Banana",
       "Tea + Coffee",
-      "Milk",
-      "Monday"
+      "Milk"
     ],
     "lunch": [
       "Macaroni Red Sauce",
@@ -265,8 +254,7 @@
       "Chapati",
       "Plain Rice",
       "Sambar",
-      "Litchi Sherbet",
-      "Monday"
+      "Litchi Sherbet"
     ],
     "dinner": [
       "Green Salad",
@@ -290,8 +278,7 @@
       "Tomato Ketchup",
       "Watermelon",
       "Tea + Coffee",
-      "Milk",
-      "Tuesday"
+      "Milk"
     ],
     "lunch": [
       "Green Salad",
@@ -301,8 +288,7 @@
       "Chapati",
       "Plain Rice",
       "Sambar",
-      "Sweet Lassi",
-      "Tuesday"
+      "Sweet Lassi"
     ],
     "dinner": [
       "Lemon + Onion",
@@ -326,18 +312,17 @@
       "Coconut Chutney",
       "Cut Papaya",
       "Tea + Coffee",
-      "Milk",
-      "Wednesday"
+      "Milk"
     ],
     "lunch": [
       "Onion Salad",
       "Paneer Butter Masala",
+      "",
       "Dal Makhani",
       "Chapati",
       "Veg Pulao",
       "Cucumber Raita",
-      "Black Current I/C",
-      "Wednesday"
+      "Black Current I/C"
     ],
     "dinner": [
       "Aloo Channa Chaat",
@@ -357,10 +342,10 @@
       "Bread + Jam",
       "Methi Thepla",
       "Green Chutney",
+      "",
       "Pineapple",
       "Tea + Coffee",
-      "Milk",
-      "Thursday"
+      "Milk"
     ],
     "lunch": [
       "Roasted Papad",
@@ -369,8 +354,7 @@
       "Veg Khichidi",
       "Parantha",
       "Plain Rice",
-      "Sambar",
-      "Thursday"
+      "Sambar"
     ],
     "dinner": [
       "COCONUT/TOMATO Chutney",
@@ -393,8 +377,7 @@
       "Cut Ponion + Lemon",
       "Banana",
       "Tea + Coffee",
-      "Milk",
-      "Friday"
+      "Milk"
     ],
     "lunch": [
       "Green Salad",
@@ -404,8 +387,7 @@
       "Chapati",
       "Plain Rice",
       "Sambar",
-      "Rasna",
-      "Friday"
+      "Rasna"
     ],
     "dinner": [
       "Lemon + Onion",
@@ -430,19 +412,19 @@
       "Lemon + Onion",
       "Watermelon",
       "Tea + Coffee",
-      "Milk",
-      "Saturday",
+      "Milk"
+    ],
+    "lunch": [
       "Dussehra",
       "Sabudana Vada",
       "Palak Paneer",
+      "",
       "Dal Makhani",
       "Tikona Paratha",
       "Veg Dum Biryani",
       "Mix Veg Raita",
-      "Boondi Ladoo",
-      "Saturday"
+      "Boondi Ladoo"
     ],
-    "lunch": [],
     "dinner": [
       "Corn Salad",
       "Dahi Arvi",
@@ -464,17 +446,16 @@
       "Tomato Ketchup",
       "Cut Apple",
       "Tea + Coffee",
-      "Milk",
-      "Sunday"
+      "Milk"
     ],
     "lunch": [
       "Onion Salad",
       "Sahi Paneer",
+      "",
       "Butter Chicken",
       "Naan",
       "Pulao Rice",
-      "Boondi Raita",
-      "Sunday"
+      "Boondi Raita"
     ],
     "dinner": [
       "Green Salad",
@@ -494,10 +475,10 @@
       "Bread + Jam",
       "Veg Upma",
       "Adrak Chutney",
+      "",
       "Banana",
       "Tea + Coffee",
-      "Milk",
-      "Monday"
+      "Milk"
     ],
     "lunch": [
       "Green Salad",
@@ -507,8 +488,7 @@
       "Chapati",
       "Plain Rice",
       "Sambar",
-      "Rose Lemonade",
-      "Monday"
+      "Rose Lemonade"
     ],
     "dinner": [
       "Papdi Chaat",
@@ -532,8 +512,7 @@
       "Mix Pickle",
       "Pineapple",
       "Tea + Coffee",
-      "Milk",
-      "Tuesday"
+      "Milk"
     ],
     "lunch": [
       "Macaroni Red Sauce",
@@ -543,8 +522,7 @@
       "Chapati",
       "Plain Rice",
       "Sambar",
-      "Sweet Lassi",
-      "Tuesday"
+      "Sweet Lassi"
     ],
     "dinner": [
       "Lemon + Onion",
