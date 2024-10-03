@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-10-02",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Ajwaini puri ",
-      "Bhaji",
-      "Lemon + onion",
-      "Cut apple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Paneer pakora",
-      "Malai kofta",
-      "Chicken handi ",
-      "Tikona paratha",
-      "Veg pulao",
-      "Cucumber raita",
-      "Butter scotch i/c "
-    ],
-    "dinner": [
-      "Green salad",
-      "Methi mutter malai",
-      "Dal panchratan",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Rajasthani petha"
-    ]
-  },
-  {
     "date": "2024-10-03",
     "day": "Thursday",
     "breakfast": [
@@ -228,6 +195,38 @@
       "Jeera rice",
       "Lauki raita",
       "Cold choco milk"
+    ]
+  },
+  {
+    "date": "2024-10-09",
+    "day": "Wednesday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Sautee idli ",
+      "Sambhar",
+      "Coconut chutney",
+      "Cut papaya",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Onion salad",
+      "Paneer butter masala",
+      "Dal makhani ",
+      "Chapati",
+      "Veg pulao",
+      "Cucumber raita",
+      "Black current i/c "
+    ],
+    "dinner": [
+      "Aloo channa chaat ",
+      "Sev tomato ( sev separate ) ",
+      "Black masoor dal ",
+      "Chapati ",
+      "Plain rice",
+      "Rasam"
     ]
   }
 ]
