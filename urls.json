@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-10-03",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Bread pakora",
-      "Green chutney",
-      "Sweet daliya",
-      "Watermelon ",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Roasted papad",
-      "Madrasi aloo ",
-      "Kadhi pakora",
-      "Moong dal khichidi ",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Ice tea"
-    ],
-    "dinner": [
-      "Green salad",
-      "Kala channa ",
-      "Butter dal ",
-      "Puri / chapati ",
-      "Jeera rice",
-      "Lapsi"
-    ]
-  },
-  {
     "date": "2024-10-04",
     "day": "Friday",
     "breakfast": [
@@ -227,6 +194,37 @@
       "Chapati ",
       "Plain rice",
       "Rasam"
+    ]
+  },
+  {
+    "date": "2024-10-10",
+    "day": "Thursday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Methi thepla",
+      "Green chutney ",
+      "Pineapple",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Roasted papad",
+      "Aloo palak",
+      "Kadhi pakora",
+      "Veg khichidi",
+      "Parantha",
+      "Plain rice",
+      "Sambar"
+    ],
+    "dinner": [
+      "Coconut/tomato chutney",
+      "Chilli idli ",
+      "Sambhar",
+      "Dosa",
+      "Tamrind rice",
+      "Lauki ka halwa"
     ]
   }
 ]
