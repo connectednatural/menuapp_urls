@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-10-05",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Masala s/w",
-      "Sweet daliya",
-      "Tomato ketchup",
-      "Pineapple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Big green chilli fry ",
-      "Pindi chooley",
-      "Curd",
-      "Puri",
-      "Jeera rice",
-      "Shikanji"
-    ],
-    "dinner": [
-      "Green salad",
-      "Aloo mutter rassa",
-      "Black masoor dal ",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Seeviyaa kheer"
-    ]
-  },
-  {
     "date": "2024-10-06",
     "day": "Sunday",
     "breakfast": [
@@ -226,6 +194,38 @@
       "Jeera rice",
       "Burani raita",
       "Jalebi"
+    ]
+  },
+  {
+    "date": "2024-10-12",
+    "day": "Saturday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Veg poha",
+      "Sev",
+      "Lemon + onion",
+      "Watermelon",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Sabudana vada",
+      "Palak paneer",
+      "Dal makhani ",
+      "Tikona paratha",
+      "Veg dum biryani",
+      "Mix veg raita",
+      "Boondi ladoo"
+    ],
+    "dinner": [
+      "Corn salad",
+      "Dahi arvi ",
+      "Dal tadka",
+      "Chapati ",
+      "Plain rice",
+      "Rasam"
     ]
   }
 ]
