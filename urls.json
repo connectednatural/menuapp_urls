@@ -1,39 +1,5 @@
 [
   {
-    "date": "2024-10-07",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Coleslaw s/w ",
-      "Tomato ketchup",
-      "Sweet daliya",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Macaroni red sauce",
-      "Baingan bhartha",
-      "Rajma rasila",
-      "Dal fry",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Litchi sherbet"
-    ],
-    "dinner": [
-      "Green salad",
-      "Soya chaap ",
-      "Dal makhani ",
-      "Chapati",
-      "Jeera rice",
-      "Rasam",
-      "Choco burfi"
-    ]
-  },
-  {
     "date": "2024-10-08",
     "day": "Tuesday",
     "breakfast": [
@@ -225,6 +191,39 @@
       "Chapati ",
       "Plain rice",
       "Rasam"
+    ]
+  },
+  {
+    "date": "2024-10-14",
+    "day": "Monday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Veg upma",
+      "Adrak chutney",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad",
+      "Cabbage foughat",
+      "Rajma masala",
+      "Dal lahsooni ",
+      "Chapati ",
+      "Plain rice",
+      "Sambar",
+      "Rose lemonade"
+    ],
+    "dinner": [
+      "Papdi chaat",
+      "Dum aloo ",
+      "Dal makhani",
+      "Chapati ",
+      "Plain rice",
+      "Rasam",
+      "Gulab jamun ( coconut pwd)"
     ]
   }
 ]
