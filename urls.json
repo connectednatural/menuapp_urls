@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-10-09",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Sautee idli ",
-      "Sambhar",
-      "Coconut chutney",
-      "Cut papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer butter masala",
-      "Dal makhani ",
-      "Chapati",
-      "Veg pulao",
-      "Cucumber raita",
-      "Black current i/c "
-    ],
-    "dinner": [
-      "Aloo channa chaat ",
-      "Sev tomato ( sev separate ) ",
-      "Black masoor dal ",
-      "Chapati ",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2024-10-10",
     "day": "Thursday",
     "breakfast": [
@@ -224,5 +192,6 @@
       "Jeera rice",
       "Tomato soup"
     ]
-  }
+  },
+  null
 ]
