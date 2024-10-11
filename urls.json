@@ -1,36 +1,5 @@
 [
   {
-    "date": "2024-10-10",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Methi thepla",
-      "Green chutney ",
-      "Pineapple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Roasted papad",
-      "Aloo palak",
-      "Kadhi pakora",
-      "Veg khichidi",
-      "Parantha",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": [
-      "Coconut/tomato chutney",
-      "Chilli idli ",
-      "Sambhar",
-      "Dosa",
-      "Tamrind rice",
-      "Lauki ka halwa"
-    ]
-  },
-  {
     "date": "2024-10-11",
     "day": "Friday",
     "breakfast": [
@@ -193,5 +162,6 @@
       "Tomato soup"
     ]
   },
+  null,
   null
 ]
