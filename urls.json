@@ -1,39 +1,5 @@
 [
   {
-    "date": "2024-10-11",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Bedmi puri",
-      "Bhaji",
-      "Cut ponion + lemon",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Mix veg dry",
-      "Mix kathol",
-      "Dal fry",
-      "Chapati ",
-      "Plain rice",
-      "Sambar",
-      "Rasna"
-    ],
-    "dinner": [
-      "Lemon + onion",
-      "Bhaji",
-      "Dhaba dal ",
-      "Ladi pao ",
-      "Jeera rice",
-      "Burani raita",
-      "Jalebi"
-    ]
-  },
-  {
     "date": "2024-10-12",
     "day": "Saturday",
     "breakfast": [
@@ -162,6 +128,7 @@
       "Tomato soup"
     ]
   },
+  null,
   null,
   null
 ]
