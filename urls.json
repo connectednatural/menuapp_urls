@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-10-12",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Veg poha",
-      "Sev",
-      "Lemon + onion",
-      "Watermelon",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Sabudana vada",
-      "Palak paneer",
-      "Dal makhani ",
-      "Tikona paratha",
-      "Veg dum biryani",
-      "Mix veg raita",
-      "Boondi ladoo"
-    ],
-    "dinner": [
-      "Corn salad",
-      "Dahi arvi ",
-      "Dal tadka",
-      "Chapati ",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2024-10-13",
     "day": "Sunday",
     "breakfast": [
@@ -128,6 +96,7 @@
       "Tomato soup"
     ]
   },
+  null,
   null,
   null,
   null
