@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-10-16",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Missal ",
-      "Pao",
-      "Lemon + onion",
-      "Water melon",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Kadhai paneer ",
-      "Chicken masala",
-      "Plain paratha",
-      "Peas pulao",
-      "Mix veg raita",
-      "Sikanji "
-    ],
-    "dinner": [
-      "Green salad",
-      "Aloo mutter rassa",
-      "Dal lahsuni ",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Cold choco milk"
-    ]
-  },
-  {
     "date": "2024-10-17",
     "day": "Thursday",
     "breakfast": [
@@ -225,6 +192,38 @@
       "Aloo rassa",
       "Batti / chapati",
       "Churma"
+    ]
+  },
+  {
+    "date": "2024-10-23",
+    "day": "Wednesday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Sautee idli ",
+      "Sambhar",
+      "Coconut chutney",
+      "Papaya",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Onion salad",
+      "Paneer tikka masala",
+      "Dal makhani",
+      "Chapati",
+      "Veg pulao ",
+      "Pineapple raita"
+    ],
+    "dinner": [
+      "Macaroni in red sauce",
+      "Gutta curry",
+      "Mix dal",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Manchow soup "
     ]
   }
 ]
