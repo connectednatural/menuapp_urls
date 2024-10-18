@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-10-17",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Masala s/w",
-      "Tomato ketchup",
-      "Sweet daliya",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Roasted papad",
-      "Spring onion kadhi ",
-      "Madrasi aloo",
-      "Moong dal khichdi",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Khus sarabat"
-    ],
-    "dinner": [
-      "Aloo channa chat ",
-      "Aloo gobhi adraki",
-      "Dal makhani",
-      "Chapati",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2024-10-18",
     "day": "Friday",
     "breakfast": [
@@ -224,6 +191,40 @@
       "Plain rice",
       "Rasam",
       "Manchow soup "
+    ]
+  },
+  {
+    "date": "2024-10-24",
+    "day": "Thursday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Palak puri ",
+      "Bhaji",
+      "Cut onion lemon",
+      "Pineapple",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Fryms",
+      "Kadi pakoda",
+      "Achari aloo",
+      "Masala kichdi",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Rooh afza"
+    ],
+    "dinner": [
+      "Green salad",
+      "Aloo gobhi mutter rassa ",
+      "Dal palak ",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Lauki halwa"
     ]
   }
 ]
