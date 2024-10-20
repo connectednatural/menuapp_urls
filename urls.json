@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-10-19",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Bread pakora",
-      "Tomato ketchup",
-      "Sweet daliya",
-      "Cut apple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green chutney",
-      "Mix bhajiya",
-      "Kala channa masala",
-      "Curd /butter",
-      "Mix veg paratha",
-      "Plain rice",
-      "Sambar",
-      "Mix blast "
-    ],
-    "dinner": [
-      "Papdi chaat",
-      "Gajar mutter curry ",
-      "Mix dal ",
-      "Chapati",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2024-10-20",
     "day": "Sunday",
     "breakfast": [
@@ -226,6 +193,39 @@
       "Puri ",
       "Jeera rice",
       "Pahari raita"
+    ]
+  },
+  {
+    "date": "2024-10-26",
+    "day": "Saturday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Veg upma",
+      "Adrak chutney",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green chutney",
+      "Hara bhara kebab",
+      "Ragda mutter",
+      "Curd /butter",
+      "Aloo paratha",
+      "Plain rice",
+      "Sambar",
+      "Rasna"
+    ],
+    "dinner": [
+      "Bhel puri",
+      "Methi mutter malai ",
+      "Dal tadka",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Seeviyaa kheer"
     ]
   }
 ]
