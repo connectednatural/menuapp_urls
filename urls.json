@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-10-25",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Batata poha",
-      "Sev",
-      "Cut onion lemon",
-      "Cut apple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Capsicum pitla",
-      "Dum aloo ",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Mohan thal"
-    ],
-    "dinner": [
-      "Cut onion + lemon ",
-      "Khata meetha pumpkin",
-      "Pindi chooley",
-      "Puri ",
-      "Jeera rice",
-      "Pahari raita"
-    ]
-  },
-  {
     "date": "2024-10-26",
     "day": "Saturday",
     "breakfast": [
@@ -212,5 +179,6 @@
     ],
     "lunch": [],
     "dinner": []
-  }
+  },
+  null
 ]
