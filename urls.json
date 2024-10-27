@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-10-26",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Veg upma",
-      "Adrak chutney",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green chutney",
-      "Hara bhara kebab",
-      "Ragda mutter",
-      "Curd /butter",
-      "Aloo paratha",
-      "Plain rice",
-      "Sambar",
-      "Rasna"
-    ],
-    "dinner": [
-      "Bhel puri",
-      "Methi mutter malai ",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Seeviyaa kheer"
-    ]
-  },
-  {
     "date": "2024-10-27",
     "day": "Sunday",
     "breakfast": [
@@ -180,5 +147,6 @@
     "lunch": [],
     "dinner": []
   },
+  null,
   null
 ]
