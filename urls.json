@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-10-27",
-    "day": "Sunday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Masala dosa",
-      "Sambhar",
-      "Coconut chutney",
-      "Water melon",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer lahori ",
-      "Dhaba chicken",
-      "Roti/ naan",
-      "Biryani rice",
-      "Cucumber raita",
-      "Butter scotch"
-    ],
-    "dinner": [
-      "Green salad",
-      "Veg kolhapuri",
-      "Dhaba dal ",
-      "Chapati",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2024-10-28",
     "day": "Monday",
     "breakfast": [
@@ -147,6 +115,7 @@
     "lunch": [],
     "dinner": []
   },
+  null,
   null,
   null
 ]
