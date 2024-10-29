@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-10-28",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Mysore bonda ",
-      "Red coconut chutney",
-      "Sweet daliya",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Corn salad",
-      "Soya masala dry",
-      "Rajma masala",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Sweet lassi "
-    ],
-    "dinner": [
-      "Green salad",
-      "Aloo methi ",
-      "Dal panchratan",
-      "Chapati",
-      "Plain rice",
-      "Rasam"
-    ]
-  },
-  {
     "date": "2024-10-29",
     "day": "Tuesday",
     "breakfast": [
@@ -115,6 +82,7 @@
     "lunch": [],
     "dinner": []
   },
+  null,
   null,
   null,
   null
