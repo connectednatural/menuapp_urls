@@ -1,39 +1,5 @@
 [
   {
-    "date": "2024-10-29",
-    "day": "Tuesday",
-    "breakfast": [
-      "No egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Aloo paratha",
-      "Curd",
-      "Pickel",
-      "Honeydew",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Cabbage mutter",
-      "Sev tomato",
-      "Red masoor dal ",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Shikanji"
-    ],
-    "dinner": [
-      "Green salad",
-      "Kathal masala",
-      "Dal maharani ",
-      "Chapati",
-      "Plain rice",
-      "Lauki raita",
-      "Suji pineapple halwa"
-    ]
-  },
-  {
     "date": "2024-10-30",
     "day": "Wednesday",
     "breakfast": [
@@ -82,6 +48,7 @@
     "lunch": [],
     "dinner": []
   },
+  null,
   null,
   null,
   null,
