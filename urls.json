@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-11-05",
-    "day": "Tuesday",
-    "breakfast": [
-      "Sprouts",
-      "Cornflakes",
-      "Bread + jam",
-      "Stuff kulcha ",
-      "Tomato ketchup",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Lauki chana dry",
-      "Methi mutter malai ",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": [
-      "Onion + lemon",
-      "Khatta meetha pumpkin",
-      "Amritsari chole",
-      "Puri",
-      "Jeera rice",
-      "Cucumber raita",
-      "Suji pineapple halwa"
-    ]
-  },
-  {
     "date": "2024-11-06",
     "day": "Wednesday",
     "breakfast": [
@@ -226,6 +194,40 @@
       "Plain rice",
       "Rasam",
       "Veg soup "
+    ]
+  },
+  {
+    "date": "2024-11-12",
+    "day": "Tuesday",
+    "breakfast": [
+      "Sprouts",
+      "Cornflakes",
+      "Bread + jam",
+      "Aloo paratha",
+      "Curd",
+      "Tomato ketchup",
+      "Guava",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Green salad",
+      "Cabbage mutter",
+      "Palak corn",
+      "Dhaba dal ",
+      "Chapati",
+      "Plain rice",
+      "Sambar",
+      "Mix blast"
+    ],
+    "dinner": [
+      "Onion + lemon",
+      "Jeer aloo ",
+      "Amritsari chole",
+      "Puri",
+      "Jeera rice",
+      "Lauki raita",
+      "Gulab jamun "
     ]
   }
 ]
