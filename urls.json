@@ -1,39 +1,5 @@
 [
   {
-    "date": "2024-11-07",
-    "day": "Thursday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Misal ",
-      "Pav",
-      "Lemon + onion",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Roasted papad",
-      "Kadhi pakora",
-      "Achari aloo",
-      "Moong dal khichdi",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Rose lemonade"
-    ],
-    "dinner": [
-      "Green salad",
-      "Mirchi ke tapoorey",
-      "Moong dal tadka",
-      "Batti / chapati",
-      "Plain rice",
-      "Rasam",
-      "Churma"
-    ]
-  },
-  {
     "date": "2024-11-08",
     "day": "Friday",
     "breakfast": [
@@ -228,6 +194,38 @@
       "Plain rice",
       "Rasam",
       "Tomato soup "
+    ]
+  },
+  {
+    "date": "2024-11-14",
+    "day": "Thursday",
+    "breakfast": [
+      "No egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Sautee idli ",
+      "Sambhar",
+      "Coconut chutney",
+      "Chiku ",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Roasted papad",
+      "Methi aloo ",
+      "Spring onion kadhi ",
+      "Moong dal khichdi",
+      "Chapati",
+      "Plain rice",
+      "Sambar"
+    ],
+    "dinner": [
+      "Kim chi salad",
+      "Veg manchurian ",
+      "Aarhar dal tadka",
+      "Veg fried rice/ egg fried rice",
+      " chapati ltd ",
+      "Hot badam milk "
     ]
   }
 ]
