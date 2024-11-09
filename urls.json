@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-11-08",
-    "day": "Friday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Bread pakora",
-      "Tomato ketchup ",
-      "Sweet daliya",
-      "Cut apple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Papdi chaat ",
-      "Capsicum pitla",
-      "Dum aloo ",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Mooli raita"
-    ],
-    "dinner": [
-      "Green salad",
-      "Soya chaap",
-      "Dhaba dal ",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Sweet corn soup"
-    ]
-  },
-  {
     "date": "2024-11-09",
     "day": "Saturday",
     "breakfast": [
@@ -226,6 +193,40 @@
       "Veg fried rice/ egg fried rice",
       " chapati ltd ",
       "Hot badam milk "
+    ]
+  },
+  {
+    "date": "2024-11-15",
+    "day": "Friday",
+    "breakfast": [
+      "Choice of egg",
+      "Cornflakes",
+      "Bread + jam",
+      "Palak puri",
+      "Aloo bhaji",
+      "Lemon + onion",
+      "Banana",
+      "Tea + coffee",
+      "Milk"
+    ],
+    "lunch": [
+      "Macaroni home style",
+      "Baingan bhartha",
+      "Fansi dhokli",
+      "Surti dal tadka",
+      "Thepla",
+      "Plain rice",
+      "Sambar",
+      "Shikanji"
+    ],
+    "dinner": [
+      "Green salad",
+      "Veg makhani",
+      "Dal lahsuni",
+      "Chapati",
+      "Plain rice",
+      "Rasam",
+      "Pumpkin halwa"
     ]
   }
 ]
