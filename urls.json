@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-11-09",
-    "day": "Saturday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Seviyaan upma",
-      "Adrak chutney",
-      "Banana",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green chutney",
-      "Finger chips",
-      "Ragda mutter",
-      "Curd /butter",
-      "Mix veg paratha",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": [
-      "Green salad",
-      "Aloo gobhi mutter rassa ",
-      "Dal palak ",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Moong dal halwa"
-    ]
-  },
-  {
     "date": "2024-11-10",
     "day": "Sunday",
     "breakfast": [
@@ -228,5 +196,6 @@
       "Rasam",
       "Pumpkin halwa"
     ]
-  }
+  },
+  null
 ]
