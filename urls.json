@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-11-10",
-    "day": "Sunday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "M/s dosa",
-      "Sambhar ",
-      "Coconut chutney ",
-      "Orange",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer lahori ",
-      "Dhaba chicken",
-      "Naan",
-      "Onion rice",
-      "Cucumber raita",
-      "Shikanji"
-    ],
-    "dinner": [
-      "Green salad",
-      "Sev tomato ",
-      "Black masoor dal ",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Rajashtani petha"
-    ]
-  },
-  {
     "date": "2024-11-11",
     "day": "Monday",
     "breakfast": [
@@ -197,5 +164,6 @@
       "Pumpkin halwa"
     ]
   },
+  null,
   null
 ]
