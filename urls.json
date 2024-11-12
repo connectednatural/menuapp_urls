@@ -1,38 +1,5 @@
 [
   {
-    "date": "2024-11-11",
-    "day": "Monday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Veg poha",
-      "Sev",
-      "Lemon + onion",
-      "Papaya",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Soya masala dry",
-      "Rajma masala",
-      "Mix dal ",
-      "Chapati",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": [
-      "Aloo channa chaat",
-      "Kathal masala",
-      "Dal panchratan",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Veg soup "
-    ]
-  },
-  {
     "date": "2024-11-12",
     "day": "Tuesday",
     "breakfast": [
@@ -164,6 +131,7 @@
       "Pumpkin halwa"
     ]
   },
+  null,
   null,
   null
 ]
