@@ -1,39 +1,5 @@
 [
   {
-    "date": "2024-11-12",
-    "day": "Tuesday",
-    "breakfast": [
-      "Sprouts",
-      "Cornflakes",
-      "Bread + jam",
-      "Aloo paratha",
-      "Curd",
-      "Tomato ketchup",
-      "Guava",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Green salad",
-      "Cabbage mutter",
-      "Palak corn",
-      "Dhaba dal ",
-      "Chapati",
-      "Plain rice",
-      "Sambar",
-      "Mix blast"
-    ],
-    "dinner": [
-      "Onion + lemon",
-      "Jeer aloo ",
-      "Amritsari chole",
-      "Puri",
-      "Jeera rice",
-      "Lauki raita",
-      "Gulab jamun "
-    ]
-  },
-  {
     "date": "2024-11-13",
     "day": "Wednesday",
     "breakfast": [
@@ -131,6 +97,7 @@
       "Pumpkin halwa"
     ]
   },
+  null,
   null,
   null,
   null
