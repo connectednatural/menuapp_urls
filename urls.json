@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-11-13",
-    "day": "Wednesday",
-    "breakfast": [
-      "Choice of egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Masala sandwich",
-      "Tomato ketchup ",
-      "Sweet daliya",
-      "Cut apple",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Onion salad",
-      "Paneer lababdar",
-      "Butter chicken",
-      "Chapati",
-      "Peas pulau",
-      "Boondi raita"
-    ],
-    "dinner": [
-      "Bhel puri",
-      "Aloo gobhi adraki",
-      "Dal tadka",
-      "Chapati",
-      "Plain rice",
-      "Rasam",
-      "Tomato soup "
-    ]
-  },
-  {
     "date": "2024-11-14",
     "day": "Thursday",
     "breakfast": [
@@ -97,6 +65,7 @@
       "Pumpkin halwa"
     ]
   },
+  null,
   null,
   null,
   null,
