@@ -1,37 +1,5 @@
 [
   {
-    "date": "2024-11-14",
-    "day": "Thursday",
-    "breakfast": [
-      "No egg",
-      "Cornflakes",
-      "Bread + jam",
-      "Sautee idli ",
-      "Sambhar",
-      "Coconut chutney",
-      "Chiku ",
-      "Tea + coffee",
-      "Milk"
-    ],
-    "lunch": [
-      "Roasted papad",
-      "Methi aloo ",
-      "Spring onion kadhi ",
-      "Moong dal khichdi",
-      "Chapati",
-      "Plain rice",
-      "Sambar"
-    ],
-    "dinner": [
-      "Kim chi salad",
-      "Veg manchurian ",
-      "Aarhar dal tadka",
-      "Veg fried rice/ egg fried rice",
-      " chapati ltd ",
-      "Hot badam milk "
-    ]
-  },
-  {
     "date": "2024-11-15",
     "day": "Friday",
     "breakfast": [
@@ -65,6 +33,7 @@
       "Pumpkin halwa"
     ]
   },
+  null,
   null,
   null,
   null,
